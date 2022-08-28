@@ -34,8 +34,8 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Mock-Up
-https://drive.google.com/file/d/1vgfc25TALbW4hXjEHahOtNQWVfHYidnK/view?usp=sharing 
+https://drive.google.com/file/d/14Tlr5Qu_jblRSTT1QrOApjzXcnvUs0l5/view?usp=sharing 
 
 ## Screenshot
-![Screenshot](https://snipboard.io/tacY24.jpg)
+![Screenshot](https://snipboard.io/pT6c1U.jpg)
 
